@@ -1,4 +1,4 @@
-1\. A Few Useful Things to Know About Machine Learning by Pedro Domingos (2012)  
+1\. [A Few Useful Things to Know About Machine Learning by Pedro Domingos (2012)] (https://dl.acm.org/doi/pdf/10.1145/2347736.2347755) 
 2\. Pattern Recognition and Machine Learning by Christopher Bishop (Book, 2006\)  
 3\. Understanding Machine Learning: From Theory to Algorithms by Shai Shalev-Shwartz and Shai Ben-David (Book, 2014\)  
 4\. The Nature of Statistical Learning Theory by Vladimir Vapnik (1995)  
